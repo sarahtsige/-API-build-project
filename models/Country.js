@@ -6,6 +6,7 @@ const Country = new Schema({
     capital: String,
     region: String,
     population: Number,
+    demonym: String,
     latlong: [Number],
     flag: String
 })
