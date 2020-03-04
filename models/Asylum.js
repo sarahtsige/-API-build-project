@@ -3,7 +3,10 @@ const Schema = mongoose.Schema;
 
 
 const AsylumStats = new Schema ({
-
+    Origin: String,
+    CountryOfAsylumOrResidence: String,
+    year: Number,
+    total: Number
 
 
 })
