@@ -7,10 +7,6 @@ const AsylumStats = new Schema ({
     CountryOfAsylumOrResidence: String,
     year: Number,
     total: Number
-
-
 })
-
-
 
 module.exports = mongoose.model('AsylumStats', AsylumStats);

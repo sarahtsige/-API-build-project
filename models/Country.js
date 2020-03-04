@@ -8,7 +8,8 @@ const Country = new Schema({
     population: Number,
     demonym: String,
     latlong: [Number],
-    flag: String
+    flag: String,
+    asylum: {}
 })
 
 

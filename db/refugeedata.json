@@ -1,2137 +1,2137 @@
 [
     {
       "Origin": "Afghanistan",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 725
     },
     {
       "Origin": "Afghanistan",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 1858
     },
     {
       "Origin": "Afghanistan",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Afghanistan",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Afghanistan",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 40
     },
     {
       "Origin": "Afghanistan",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
       "Value": 25
     },
     {
       "Origin": "Afghanistan",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 95
     },
     {
       "Origin": "Afghanistan",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 268
     },
     {
       "Origin": "Afghanistan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 839
     },
     {
       "Origin": "Algeria",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Algeria",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Algeria",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Angola",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Angola",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Armenia",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Armenia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 32
     },
     {
       "Origin": "Azerbaijan",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Azerbaijan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Bangladesh",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Belarus",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 9
     },
     {
       "Origin": "Belarus",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Belarus",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 169
     },
     {
       "Origin": "Bhutan",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 145
     },
     {
       "Origin": "Bhutan",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 11
     },
     {
       "Origin": "Bhutan",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Bhutan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 707
     },
     {
       "Origin": "Brazil",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Burundi",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 217
     },
     {
       "Origin": "Burundi",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 322
     },
     {
       "Origin": "Burundi",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Burundi",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Burundi",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Burundi",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Burundi",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 41
     },
     {
       "Origin": "Cambodia",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Cambodia",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Cambodia",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Cameroon",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 13
     },
     {
       "Origin": "Cameroon",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Cameroon",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Cameroon",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 18
     },
     {
       "Origin": "Central African Republic",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 115
     },
     {
       "Origin": "Central African Republic",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
       "Value": 11
     },
     {
       "Origin": "Central African Republic",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 68
     },
     {
       "Origin": "Central African Republic",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 150
     },
     {
       "Origin": "Central African Republic",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 34
     },
     {
       "Origin": "Central African Republic",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 203
     },
     {
       "Origin": "Chad",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 9
     },
     {
       "Origin": "Chad",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Chad",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Chad",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Chad",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "China",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 7
     },
     {
       "Origin": "China",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Colombia",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 156
     },
     {
       "Origin": "Colombia",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 195
     },
     {
       "Origin": "Colombia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 136
     },
     {
       "Origin": "Congo",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 31
     },
     {
       "Origin": "Congo",
-      "CountryOfAsylum/Residence": "Netherlands",
+      "CountryOfAsylumOrResidence": "Netherlands",
       "Year": 2018,
       "Value": 129
     },
     {
       "Origin": "Congo",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Congo",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 7
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "Belgium",
+      "CountryOfAsylumOrResidence": "Belgium",
       "Year": 2018,
       "Value": 35
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 1347
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
       "Value": 130
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 30
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "Netherlands",
+      "CountryOfAsylumOrResidence": "Netherlands",
       "Year": 2018,
       "Value": 16
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
       "Value": 706
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 11
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 613
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 9305
     },
     {
       "Origin": "Costa Rica",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Côte d'Ivoire",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 40
     },
     {
       "Origin": "Côte d'Ivoire",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Côte d'Ivoire",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 25
     },
     {
       "Origin": "Côte d'Ivoire",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 14
     },
     {
       "Origin": "Cuba",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Korea (Democratic People's Republic of)",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 1146
     },
     {
       "Origin": "Congo (Democratic Republic of the)",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 279
     },
     {
       "Origin": "Djibouti",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Dominica",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Ecuador",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 7
     },
     {
       "Origin": "Ecuador",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 22
     },
     {
       "Origin": "Ecuador",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Egypt",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 55
     },
     {
       "Origin": "Egypt",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 133
     },
     {
       "Origin": "Egypt",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Egypt",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "El Salvador",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 26
     },
     {
       "Origin": "El Salvador",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "El Salvador",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 683
     },
     {
       "Origin": "Equatorial Guinea",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 315
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Belgium",
+      "CountryOfAsylumOrResidence": "Belgium",
       "Year": 2018,
       "Value": 35
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 4583
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Switzerland",
+      "CountryOfAsylumOrResidence": "Switzerland",
       "Year": 2018,
       "Value": 61
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Germany",
+      "CountryOfAsylumOrResidence": "Germany",
       "Year": 2018,
       "Value": 238
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
       "Value": 59
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 165
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 111
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Italy",
+      "CountryOfAsylumOrResidence": "Italy",
       "Year": 2018,
       "Value": 54
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Netherlands",
+      "CountryOfAsylumOrResidence": "Netherlands",
       "Year": 2018,
       "Value": 42
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
       "Value": 21
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 389
     },
     {
       "Origin": "Eritrea",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 1340
     },
     {
       "Origin": "Ethiopia",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 308
     },
     {
       "Origin": "Ethiopia",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 997
     },
     {
       "Origin": "Ethiopia",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Ethiopia",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 35
     },
     {
       "Origin": "Ethiopia",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 26
     },
     {
       "Origin": "Ethiopia",
-      "CountryOfAsylum/Residence": "Italy",
+      "CountryOfAsylumOrResidence": "Italy",
       "Year": 2018,
       "Value": 12
     },
     {
       "Origin": "Ethiopia",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Ethiopia",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 197
     },
     {
       "Origin": "Ethiopia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 346
     },
     {
       "Origin": "Gambia",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Gambia",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Georgia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Ghana",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Ghana",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Guatemala",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 15
     },
     {
       "Origin": "Guatemala",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Guatemala",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 48
     },
     {
       "Origin": "Guinea",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Guinea",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 10
     },
     {
       "Origin": "Honduras",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 9
     },
     {
       "Origin": "Honduras",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 71
     },
     {
       "Origin": "India",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 222
     },
     {
       "Origin": "India",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "India",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "India",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 15
     },
     {
       "Origin": "Indonesia",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Indonesia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 13
     },
     {
       "Origin": "Iran (Islamic Republic of)",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Iran (Islamic Republic of)",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 12
     },
     {
       "Origin": "Iran (Islamic Republic of)",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 14
     },
     {
       "Origin": "Iran (Islamic Republic of)",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 14
     },
     {
       "Origin": "Iran (Islamic Republic of)",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 183
     },
     {
       "Origin": "Iran (Islamic Republic of)",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 300
     },
     {
       "Origin": "Iran (Islamic Republic of)",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 25
     },
     {
       "Origin": "Iran (Islamic Republic of)",
-      "CountryOfAsylum/Residence": "Italy",
+      "CountryOfAsylumOrResidence": "Italy",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Iran (Islamic Republic of)",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
       "Value": 7
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 3639
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 4073
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "Switzerland",
+      "CountryOfAsylumOrResidence": "Switzerland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "Germany",
+      "CountryOfAsylumOrResidence": "Germany",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 95
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 338
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "Iceland",
+      "CountryOfAsylumOrResidence": "Iceland",
       "Year": 2018,
       "Value": 28
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "Netherlands",
+      "CountryOfAsylumOrResidence": "Netherlands",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 43
     },
     {
       "Origin": "Iraq",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 91
     },
     {
       "Origin": "Israel",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Israel",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Israel",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Jamaica",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 12
     },
     {
       "Origin": "Jamaica",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Jordan",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 71
     },
     {
       "Origin": "Jordan",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 21
     },
     {
       "Origin": "Jordan",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Jordan",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Jordan",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Jordan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Kazakhstan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 51
     },
     {
       "Origin": "Kenya",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 231
     },
     {
       "Origin": "Kenya",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Kenya",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 14
     },
     {
       "Origin": "Kuwait",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Kuwait",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Kyrgyzstan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 33
     },
     {
       "Origin": "Lebanon",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 54
     },
     {
       "Origin": "Lebanon",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 42
     },
     {
       "Origin": "Lebanon",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Liberia",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 41
     },
     {
       "Origin": "Liberia",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Liberia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Libya",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Libya",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Libya",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Malawi",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 46
     },
     {
       "Origin": "Malawi",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Malaysia",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 203
     },
     {
       "Origin": "Malaysia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Mali",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 16
     },
     {
       "Origin": "Mali",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 105
     },
     {
       "Origin": "Mali",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 21
     },
     {
       "Origin": "Mauritania",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Mauritania",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Morocco",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Morocco",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Mozambique",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Myanmar",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 1545
     },
     {
       "Origin": "Myanmar",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 121
     },
     {
       "Origin": "Myanmar",
-      "CountryOfAsylum/Residence": "Japan",
+      "CountryOfAsylumOrResidence": "Japan",
       "Year": 2018,
       "Value": 22
     },
     {
       "Origin": "Myanmar",
-      "CountryOfAsylum/Residence": "Rep. of Korea",
+      "CountryOfAsylumOrResidence": "Rep. of Korea",
       "Year": 2018,
       "Value": 26
     },
     {
       "Origin": "Myanmar",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 238
     },
     {
       "Origin": "Myanmar",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 3771
     },
     {
       "Origin": "Namibia",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Namibia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Nepal",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 134
     },
     {
       "Origin": "Nepal",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 7
     },
     {
       "Origin": "Nicaragua",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Niger",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Nigeria",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 37
     },
     {
       "Origin": "Nigeria",
-      "CountryOfAsylum/Residence": "Switzerland",
+      "CountryOfAsylumOrResidence": "Switzerland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Nigeria",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Nigeria",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 65
     },
     {
       "Origin": "Nigeria",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Nigeria",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Pakistan",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 165
     },
     {
       "Origin": "Pakistan",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 556
     },
     {
       "Origin": "Pakistan",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Pakistan",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Pakistan",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 46
     },
     {
       "Origin": "Pakistan",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 10
     },
     {
       "Origin": "Pakistan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 493
     },
     {
       "Origin": "Palestine, State of",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 59
     },
     {
       "Origin": "Palestine, State of",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Palestine, State of",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 178
     },
     {
       "Origin": "Palestine, State of",
-      "CountryOfAsylum/Residence": "Italy",
+      "CountryOfAsylumOrResidence": "Italy",
       "Year": 2018,
       "Value": 8
     },
     {
       "Origin": "Palestine, State of",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 73
     },
     {
       "Origin": "Palestine, State of",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Palestine, State of",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Philippines",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Moldova (Republic of)",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 127
     },
     {
       "Origin": "Russian Federation",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Russian Federation",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
       "Value": 12
     },
     {
       "Origin": "Russian Federation",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 328
     },
     {
       "Origin": "Rwanda",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 44
     },
     {
       "Origin": "Rwanda",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 93
     },
     {
       "Origin": "Rwanda",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Rwanda",
-      "CountryOfAsylum/Residence": "France",
-      "Year": 2018,
-      "Value": 5
-    },
-    {
-      "Origin": "Rwanda",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
-      "Year": 2018,
-      "Value": "*"
-    },
-    {
-      "Origin": "Rwanda",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Rwanda",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Rwanda",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "Norway",
+      "Year": 2018,
+      "Value": 5
+    },
+    {
+      "Origin": "Rwanda",
+      "CountryOfAsylumOrResidence": "Sweden",
+      "Year": 2018,
+      "Value": 0
+    },
+    {
+      "Origin": "Rwanda",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 157
     },
     {
       "Origin": "Saudi Arabia",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 16
     },
     {
       "Origin": "Saudi Arabia",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Saudi Arabia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Senegal",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Senegal",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 7
     },
     {
       "Origin": "Senegal",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 14
     },
     {
       "Origin": "Sierra Leone",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Sierra Leone",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Sierra Leone",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 30
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "Belgium",
+      "CountryOfAsylumOrResidence": "Belgium",
       "Year": 2018,
       "Value": 10
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 1292
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "Switzerland",
+      "CountryOfAsylumOrResidence": "Switzerland",
       "Year": 2018,
       "Value": 10
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "Germany",
+      "CountryOfAsylumOrResidence": "Germany",
       "Year": 2018,
       "Value": 37
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 45
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 134
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "Netherlands",
+      "CountryOfAsylumOrResidence": "Netherlands",
       "Year": 2018,
       "Value": 20
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 24
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 61
     },
     {
       "Origin": "Somalia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 139
     },
     {
       "Origin": "South Africa",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "South Africa",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "South Sudan",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 54
     },
     {
       "Origin": "South Sudan",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 139
     },
     {
       "Origin": "South Sudan",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "South Sudan",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 25
     },
     {
       "Origin": "South Sudan",
-      "CountryOfAsylum/Residence": "Netherlands",
+      "CountryOfAsylumOrResidence": "Netherlands",
       "Year": 2018,
       "Value": 22
     },
     {
       "Origin": "South Sudan",
-      "CountryOfAsylum/Residence": "Portugal",
+      "CountryOfAsylumOrResidence": "Portugal",
       "Year": 2018,
       "Value": 15
     },
     {
       "Origin": "South Sudan",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 55
     },
     {
       "Origin": "South Sudan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Sri Lanka",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Sri Lanka",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Sri Lanka",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Sri Lanka",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 27
     },
     {
       "Origin": "Sri Lanka",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 57
     },
     {
       "Origin": "Stateless",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 252
     },
     {
       "Origin": "Stateless",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Stateless",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Stateless",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Stateless",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 31
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 112
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 313
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "Switzerland",
+      "CountryOfAsylumOrResidence": "Switzerland",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
       "Value": 18
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 330
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 225
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "Italy",
+      "CountryOfAsylumOrResidence": "Italy",
       "Year": 2018,
       "Value": 14
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "Netherlands",
+      "CountryOfAsylumOrResidence": "Netherlands",
       "Year": 2018,
       "Value": 65
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
       "Value": 47
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 210
     },
     {
       "Origin": "Sudan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 85
     },
     {
       "Origin": "Sweden",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Norway",
+      "CountryOfAsylumOrResidence": "Norway",
       "Year": 2018,
       "Value": 1637
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 2181
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Belgium",
+      "CountryOfAsylumOrResidence": "Belgium",
       "Year": 2018,
       "Value": 800
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Bulgaria",
+      "CountryOfAsylumOrResidence": "Bulgaria",
       "Year": 2018,
       "Value": 20
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 10694
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Switzerland",
+      "CountryOfAsylumOrResidence": "Switzerland",
       "Year": 2018,
       "Value": 994
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Germany",
+      "CountryOfAsylumOrResidence": "Germany",
       "Year": 2018,
       "Value": 2929
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Spain",
+      "CountryOfAsylumOrResidence": "Spain",
       "Year": 2018,
       "Value": 830
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Estonia",
+      "CountryOfAsylumOrResidence": "Estonia",
       "Year": 2018,
       "Value": 18
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
       "Value": 360
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 4495
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 4387
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Croatia",
+      "CountryOfAsylumOrResidence": "Croatia",
       "Year": 2018,
       "Value": 110
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Ireland",
+      "CountryOfAsylumOrResidence": "Ireland",
       "Year": 2018,
       "Value": 338
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Iceland",
+      "CountryOfAsylumOrResidence": "Iceland",
       "Year": 2018,
       "Value": 15
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Italy",
+      "CountryOfAsylumOrResidence": "Italy",
       "Year": 2018,
       "Value": 309
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Lithuania",
+      "CountryOfAsylumOrResidence": "Lithuania",
       "Year": 2018,
       "Value": 20
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Netherlands",
+      "CountryOfAsylumOrResidence": "Netherlands",
       "Year": 2018,
       "Value": 814
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
       "Value": 233
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Portugal",
+      "CountryOfAsylumOrResidence": "Portugal",
       "Year": 2018,
       "Value": 20
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Slovenia",
+      "CountryOfAsylumOrResidence": "Slovenia",
       "Year": 2018,
       "Value": 34
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 2847
     },
     {
       "Origin": "Syrian Arab Republic",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 41
     },
     {
       "Origin": "Tanzania, United Republic of",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 143
     },
     {
       "Origin": "Thailand",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 328
     },
     {
       "Origin": "Thailand",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Thailand",
-      "CountryOfAsylum/Residence": "New Zealand",
+      "CountryOfAsylumOrResidence": "New Zealand",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Thailand",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 7
     },
     {
       "Origin": "Togo",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Togo",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Trinidad and Tobago",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Tunisia",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 7
     },
     {
       "Origin": "Turkey",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 28
     },
     {
       "Origin": "Turkey",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Turkey",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 20
     },
     {
       "Origin": "Turkey",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 13
     },
     {
       "Origin": "Turkmenistan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Uganda",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 117
     },
     {
       "Origin": "Uganda",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 28
     },
     {
       "Origin": "Uganda",
-      "CountryOfAsylum/Residence": "Iceland",
+      "CountryOfAsylumOrResidence": "Iceland",
       "Year": 2018,
       "Value": 10
     },
     {
       "Origin": "Uganda",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 46
     },
     {
       "Origin": "Ukraine",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Ukraine",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 3101
     },
     {
       "Origin": "United States of America",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 36
     },
     {
       "Origin": "Uzbekistan",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Uzbekistan",
-      "CountryOfAsylum/Residence": "Finland",
+      "CountryOfAsylumOrResidence": "Finland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Uzbekistan",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Uzbekistan",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 15
     },
     {
       "Origin": "Various/unknown",
-      "CountryOfAsylum/Residence": "Australia",
+      "CountryOfAsylumOrResidence": "Australia",
       "Year": 2018,
       "Value": 195
     },
     {
       "Origin": "Various/unknown",
-      "CountryOfAsylum/Residence": "Switzerland",
+      "CountryOfAsylumOrResidence": "Switzerland",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Various/unknown",
-      "CountryOfAsylum/Residence": "Germany",
+      "CountryOfAsylumOrResidence": "Germany",
       "Year": 2018,
       "Value": 12
     },
     {
       "Origin": "Various/unknown",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
       "Value": 23
     },
     {
       "Origin": "Various/unknown",
-      "CountryOfAsylum/Residence": "Netherlands",
+      "CountryOfAsylumOrResidence": "Netherlands",
       "Year": 2018,
       "Value": 114
     },
     {
       "Origin": "Various/unknown",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 276
     },
     {
       "Origin": "Venezuela (Bolivarian Republic of)",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 6
     },
     {
       "Origin": "Viet Nam",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 18
     },
     {
       "Origin": "Viet Nam",
-      "CountryOfAsylum/Residence": "France",
+      "CountryOfAsylumOrResidence": "France",
       "Year": 2018,
       "Value": 5
     },
     {
       "Origin": "Viet Nam",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 94
     },
     {
       "Origin": "Yemen",
-      "CountryOfAsylum/Residence": "Canada",
+      "CountryOfAsylumOrResidence": "Canada",
       "Year": 2018,
       "Value": 47
     },
     {
       "Origin": "Yemen",
-      "CountryOfAsylum/Residence": "United Kingdom of Great Britain and Northern Ireland",
+      "CountryOfAsylumOrResidence": "United Kingdom of Great Britain and Northern Ireland",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Yemen",
-      "CountryOfAsylum/Residence": "Sweden",
+      "CountryOfAsylumOrResidence": "Sweden",
       "Year": 2018,
       "Value": 12
     },
     {
       "Origin": "Yemen",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Zambia",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
-      "Value": "*"
+      "Value": 0
     },
     {
       "Origin": "Zimbabwe",
-      "CountryOfAsylum/Residence": "United States of America",
+      "CountryOfAsylumOrResidence": "United States of America",
       "Year": 2018,
       "Value": 10
     }
