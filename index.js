@@ -5,7 +5,7 @@ const Country = require("./models/Country");
 const index = require("./routes/index");
 
 app.use(parser.json());
-app.use("/", index);
+// app.use("/", index);
 
 
 
