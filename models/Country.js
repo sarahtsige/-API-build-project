@@ -1,19 +1,15 @@
-const mongoose = require('../db/connection');
-const Schema = mongoose.Schema
+const mongoose = require("../db/connection");
+const Schema = mongoose.Schema;
 
 const Country = new Schema({
-    name: String,
-    capital: String,
-    region: String,
-    population: Number,
-    demonym: String,
-    latlong: [Number],
-    flag: String,
-    asylum: {}
-})
+  name: String,
+  capital: String,
+  region: String,
+  population: Number,
+  demonym: String,
+  latlong: [Number],
+  flag: String,
+  asylum: {}
+});
 
-
-
-
-
-module.exports = mongoose.model('Country', Country);
+module.exports = mongoose.model("Country", Country);
