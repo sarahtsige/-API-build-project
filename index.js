@@ -1,8 +1,10 @@
 const express = require("express");
+var cors = require('cors');
 const app = express();
 const parser = require("body-parser");
 const Country = require("./models/Country");
 
+app.use(cors());
 app.use(parser.json());
 
 
