@@ -16,5 +16,3 @@ if (process.env.NODE_ENV === "production") {
   .catch(error => console.log("Connection failed!", error));
 
 module.exports = mongoose;
-
-
