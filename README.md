@@ -31,61 +31,52 @@ Included in the data is the following information:
  - Asylum Data
 
 
+
 ## Sample 
 
-```
-{
-"latlong": [
-38,
--97
-],
-"_id": "5e616b8608648a00044252b0",
-"name": "United States of America",
-"capital": "Washington, D.C.",
-"region": "Americas",
-"population": 323947000,
-"demonym": "American",
-"flag": "https://restcountries.eu/data/usa.svg",
-"asylum": [
-{
-"_id": "5e616b8a08648a000442540a",
-"Origin": "United States of America",
-"CountryOfAsylumOrResidence": "Canada",
-"year": 2018,
-"total": 36,
-"__v": 0
-}
-],
-"__v": 1
-}
+Below is a sample document:
 
-```
+
+![Screen Shot 2020-03-27 at 3 39 21 PM](https://user-images.githubusercontent.com/59429924/77794094-a912fb00-7041-11ea-93a7-80725a14f7ac.png)
+
+
+
 ## Paths
 
 
 ### Retrieve all countries
 
-http://localhost:4000/
+[https://api-projectssaleh.herokuapp.com/](https://api-projectssaleh.herokuapp.com/)
 
 
 
 ### Retrieve one country by name
 
-http://localhost:4000/name/:name
+This path will return a single country by name.
+
+https://api-projectssaleh.herokuapp.com/:name
+
 
 Example:
+[https://api-projectssaleh.herokuapp.com/name/Afghanistan](http://localhost:4000/name/Afghanistan)
+
+
+
 
 
 
 ### Retrieve countries by region
 
-http://localhost:4000/region/:region
+This path will return all countries within the named region.
 
+https://api-projectssaleh.herokuapp.com/region/:region
 
+Example:
+[https://api-projectssaleh.herokuapp.com/region/Africa](https://api-projectssaleh.herokuapp.com/region/Africa)
 
+Path above will return all countries with the region of Africa.
 
-
-### Authors
+### Author
 Sarah Saleh
 
 
