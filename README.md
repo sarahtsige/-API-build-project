@@ -54,7 +54,7 @@ Below is a sample document:
 
 This path will return a single country by name.
 
-https://api-projectssaleh.herokuapp.com/:name
+`https://api-projectssaleh.herokuapp.com/name/:name`
 
 
 Example:
@@ -69,7 +69,7 @@ Example:
 
 This path will return all countries within the named region.
 
-https://api-projectssaleh.herokuapp.com/region/:region
+`https://api-projectssaleh.herokuapp.com/region/:region`
 
 Example:
 [https://api-projectssaleh.herokuapp.com/region/Africa](https://api-projectssaleh.herokuapp.com/region/Africa)
