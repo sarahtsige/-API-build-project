@@ -58,7 +58,7 @@ This path will return a single country by name.
 
 
 Example:
-[https://api-projectssaleh.herokuapp.com/name/Afghanistan](http://localhost:4000/name/Afghanistan)
+[https://api-projectssaleh.herokuapp.com/name/Afghanistan](https://api-projectssaleh.herokuapp.com/name/Afghanistan)
 
 
 
